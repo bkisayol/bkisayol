@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Flutter, Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/bkisayol/Flutter-Learning.git](https://github.com/bkisayol/Flutter-Learning.git)
-
 - 📫 How to reach me **b.kisayol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
